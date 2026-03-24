@@ -1,4 +1,5 @@
 影像分類模型訓練流程（Cavus 2CH / 4CH）
+
 🔹 1. 資料蒐集
 從網路收集已完成分類的影像資料（2CH / 4CH）
 作為初始訓練資料集（pre-training dataset）
